@@ -1,0 +1,36 @@
+.homepost{
+    width: 385px;
+    margin: 0px 25px 40px 25px ;
+
+
+}
+
+.homepostImg{
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.homepostInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.homepostTitle{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 15px;
+    cursor:pointer;
+    -webkit-line-clamp: inherit;
+    text-decoration: "none";
+}
+
+.link{
+    text-decoration: none;
+}

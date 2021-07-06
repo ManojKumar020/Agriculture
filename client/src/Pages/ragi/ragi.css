@@ -1,0 +1,22 @@
+
+
+.ragileft > img {
+    width: 500px;
+    height: 300px;
+    margin-left: 150px;
+    justify-items: center;
+    }
+    
+    
+    .title{
+        text-align: center;
+    }
+    
+    .ragileft{
+        background-color:burlywood;
+        color:black;
+        padding: 40px;
+    
+    }
+    
+        

@@ -1,0 +1,36 @@
+.horti{
+    width: 385px;
+    margin: 0px 25px 40px 25px ;
+
+
+}
+
+.hortiImg{
+    display: flex;
+    width: 300px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+
+.hortiInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.hortiTitle{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 15px;
+    cursor:pointer;
+    
+}
+
+.Link{
+    text-decoration: none;
+    color: #000;
+    
+}
